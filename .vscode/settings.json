@@ -5,5 +5,13 @@
     "files.trimTrailingWhitespace": true,
     "files.associations": {
         "**/toc.json": "jsonc"
-    }
+    },
+    "files.exclude": {
+        "**/.colum Name": true,
+        "**/.git": false,
+        "list": true,
+        "**/Thumbs.db": false
+    },
+    "editor.fontLigatures": false,
+    "markdown.trace.extension": "verbose"
 }

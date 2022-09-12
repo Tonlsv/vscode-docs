@@ -29,7 +29,7 @@ The active color theme is stored in your user [settings](/docs/getstarted/settin
   "workbench.colorTheme": "Default Dark+"
 ```
 
-> **Tip:** By default, the theme is stored in your user settings and applies globally to all workspaces. You can also configure a workspace specific theme. To do so, set a theme in the Workspace [settings](/docs/getstarted/settings.md#workspace-settings).
+> **Tip:** By default, the theme is stored in your user settings and applies globally to all workspaces. You can also configure a workspace specific theme. To do so, set a theme in the Workspace [settings](/**docs/getstarted/settings.md#workspace-settings).**
 
 ## Color Themes from the Marketplace
 
